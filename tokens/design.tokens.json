@@ -99,7 +99,7 @@
         },
         "secondary-hover": {
           "type": "color",
-          "value": "{global.eggplant.70}",
+          "value": "{global.eggplant.60}",
           "description": "",
           "$extensions": {
             "mode": {},
@@ -2959,7 +2959,7 @@
         "specific",
         "global"
       ],
-      "createdAt": "2025-04-16T17:30:07.708Z"
+      "createdAt": "2025-04-16T17:35:14.358Z"
     }
   }
 }
