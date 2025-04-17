@@ -80,7 +80,7 @@
         },
         "secondary": {
           "type": "color",
-          "value": "{global.breeze.60}",
+          "value": "{global.eggplant.60}",
           "description": "",
           "$extensions": {
             "mode": {},
@@ -99,7 +99,7 @@
         },
         "secondary-hover": {
           "type": "color",
-          "value": "{global.breeze.70}",
+          "value": "{global.eggplant.70}",
           "description": "",
           "$extensions": {
             "mode": {},
@@ -118,7 +118,7 @@
         },
         "secondary-active": {
           "type": "color",
-          "value": "{global.breeze.90}",
+          "value": "{global.eggplant.90}",
           "description": "",
           "$extensions": {
             "mode": {},
@@ -2959,7 +2959,7 @@
         "specific",
         "global"
       ],
-      "createdAt": "2025-01-22T09:10:33.178Z"
+      "createdAt": "2025-04-16T17:30:07.708Z"
     }
   }
 }
