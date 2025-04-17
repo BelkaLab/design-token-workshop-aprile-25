@@ -23,7 +23,7 @@
         },
         "primary": {
           "type": "color",
-          "value": "{global.eggplant.60}",
+          "value": "{global.breeze.60}",
           "description": "",
           "$extensions": {
             "mode": {},
@@ -42,7 +42,7 @@
         },
         "primary-hover": {
           "type": "color",
-          "value": "{global.eggplant.70}",
+          "value": "{global.breeze.70}",
           "description": "",
           "$extensions": {
             "mode": {},
@@ -61,7 +61,7 @@
         },
         "primary-active": {
           "type": "color",
-          "value": "{global.eggplant.90}",
+          "value": "{global.breeze.90}",
           "description": "",
           "$extensions": {
             "mode": {},
@@ -137,7 +137,7 @@
         },
         "tertiary": {
           "type": "color",
-          "value": "{global.breeze.60}",
+          "value": "{global.lightBlue.60}",
           "description": "",
           "$extensions": {
             "mode": {},
@@ -156,7 +156,7 @@
         },
         "tertiary-hover": {
           "type": "color",
-          "value": "{global.breeze.80}",
+          "value": "{global.lightBlue.80}",
           "description": "",
           "$extensions": {
             "mode": {},
@@ -175,7 +175,7 @@
         },
         "tertiary-active": {
           "type": "color",
-          "value": "{global.breeze.90}",
+          "value": "{global.lightBlue.90}",
           "description": "",
           "$extensions": {
             "mode": {},
@@ -313,7 +313,7 @@
       },
       "md": {
         "type": "dimension",
-        "value": "24px",
+        "value": "20px",
         "description": "",
         "$extensions": {
           "mode": {},
@@ -2959,7 +2959,7 @@
         "specific",
         "global"
       ],
-      "createdAt": "2025-04-16T17:30:07.708Z"
+      "createdAt": "2025-04-17T16:24:23.748Z"
     }
   }
 }
