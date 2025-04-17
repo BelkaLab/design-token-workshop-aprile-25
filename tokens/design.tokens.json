@@ -567,7 +567,7 @@
       "primary": {
         "bg-default": {
           "type": "color",
-          "value": "{semantic.color.background.primary}",
+          "value": "{semantic.color.background.tertiary}",
           "description": "",
           "$extensions": {
             "mode": {},
@@ -2959,7 +2959,7 @@
         "specific",
         "global"
       ],
-      "createdAt": "2025-04-16T17:30:07.708Z"
+      "createdAt": "2025-04-17T16:21:00.680Z"
     }
   }
 }
