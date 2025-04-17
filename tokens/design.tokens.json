@@ -23,7 +23,7 @@
         },
         "primary": {
           "type": "color",
-          "value": "{global.eggplant.60}",
+          "value": "{global.eggplant.20}",
           "description": "",
           "$extensions": {
             "mode": {},
@@ -2959,7 +2959,7 @@
         "specific",
         "global"
       ],
-      "createdAt": "2025-04-16T17:30:07.708Z"
+      "createdAt": "2025-04-17T14:43:03.327Z"
     }
   }
 }
