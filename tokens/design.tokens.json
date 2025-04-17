@@ -23,7 +23,7 @@
         },
         "primary": {
           "type": "color",
-          "value": "{global.eggplant.60}",
+          "value": "{global.yellow.60}",
           "description": "",
           "$extensions": {
             "mode": {},
@@ -42,7 +42,7 @@
         },
         "primary-hover": {
           "type": "color",
-          "value": "{global.eggplant.70}",
+          "value": "{global.yellow.70}",
           "description": "",
           "$extensions": {
             "mode": {},
@@ -61,7 +61,7 @@
         },
         "primary-active": {
           "type": "color",
-          "value": "{global.eggplant.90}",
+          "value": "{global.yellow.90}",
           "description": "",
           "$extensions": {
             "mode": {},
@@ -953,7 +953,7 @@
       "dimension": {
         "padding-v": {
           "type": "dimension",
-          "value": "{semantic.spacing.xs}",
+          "value": "{semantic.spacing.md}",
           "description": "",
           "$extensions": {
             "mode": {},
@@ -2959,7 +2959,7 @@
         "specific",
         "global"
       ],
-      "createdAt": "2025-04-16T17:30:07.708Z"
+      "createdAt": "2025-04-17T15:58:14.092Z"
     }
   }
 }
