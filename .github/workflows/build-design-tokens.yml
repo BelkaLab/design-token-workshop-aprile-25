@@ -5,6 +5,11 @@ on:
     branches:
       - main
       - devel
+      - branch-anas
+      - branch-nicola
+      - branch-andrea
+      - branch-dario
+      - branch-mattia
     paths:
       - tokens/**/*.tokens.json
 
