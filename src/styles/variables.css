@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 16 Apr 2025 17:30:37 GMT
+ * Generated on Thu, 17 Apr 2025 15:59:49 GMT
  */
 
 :root {
@@ -133,7 +133,7 @@
   --spacing-xs: 12px;
   --button-dimension-radius: var(--radius-xs);
   --button-dimension-padding-h: var(--spacing-md);
-  --button-dimension-padding-v: var(--spacing-xs);
+  --button-dimension-padding-v: var(--spacing-md);
   --button-tertiary-bg-active: var(--alpha);
   --button-tertiary-bg-hover: var(--alpha);
   --button-tertiary-bg-default: var(--alpha);
@@ -151,9 +151,9 @@
   --color-background-secondary-active: var(--eggplant-90);
   --color-background-secondary-hover: var(--eggplant-70);
   --color-background-secondary: var(--eggplant-60);
-  --color-background-primary-active: var(--eggplant-90);
-  --color-background-primary-hover: var(--eggplant-70);
-  --color-background-primary: var(--eggplant-60);
+  --color-background-primary-active: var(--yellow-90);
+  --color-background-primary-hover: var(--yellow-70);
+  --color-background-primary: var(--yellow-60);
   --color-background-default: var(--white);
   --button-tertiary-fg-active: var(--color-background-tertiary-active);
   --button-tertiary-fg-hover: var(--color-background-tertiary-hover);
